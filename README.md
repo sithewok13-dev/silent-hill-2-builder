@@ -33,7 +33,7 @@ HD packs, touch controls, 60 fps and controller support.
 
 | | Cost | Computer? |
 |---|---|---|
-| **[SideStore](https://sidestore.io)** | Free (your Apple ID) | Once, to set it up. Apps last 7 days: tap **Refresh** in SideStore to renew. |
+| **[SideStore](https://sidestore.io)** | Free (your Apple ID) | Once, to set it up. After that, open SideStore and tap **Refresh All** at least once a week: if you go past 7 days, SideStore and your apps expire and you'll need the computer again. |
 | **[Signulous](https://www.signulous.com)** or **[UDID Registrations](https://www.udidregistrations.com)** | About $20 a year | No. Upload the IPA to their site and install from there. |
 | **[Feather](https://github.com/khcrysalis/Feather)** | Your own [Apple Developer account](https://developer.apple.com/programs/) ($99 a year), or a signing service's certificate | No |
 
