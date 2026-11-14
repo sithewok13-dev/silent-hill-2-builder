@@ -12,8 +12,9 @@ phone, 60 fps, and controller support.
 - A free [GitHub account](https://github.com/signup).
 - **Your copy of Silent Hill 2 for PC** as one file in Google Drive or Dropbox: the game's ISO, or the installed
   game's folder zipped (any of .iso, .zip, .7z, .rar). Share it as **Anyone with the link**.
-- A way to install apps that aren't from the App Store (see **Installing** below). The free one is
-  [SideStore](https://sidestore.io): it needs only your normal Apple ID, and a computer once to set it up.
+- A way to install apps that aren't from the App Store (see **Installing** below): free with
+  [SideStore](https://sidestore.io) (your normal Apple ID, and a computer once to set it up), or with no computer
+  through a paid signing service or Feather with an Apple Developer account.
 - About **10 GB** free on the iPhone (iOS 15 or later; an iPhone from 2020 or newer is best).
 
 ## Make it (4 steps, about 40 minutes, mostly waiting)
@@ -27,7 +28,7 @@ phone, 60 fps, and controller support.
 3. **Wait.** It takes about 30–40 minutes. A green tick means it's done; a red cross shows what went wrong in plain
    words when you tap it. You can close the page and come back.
 4. **Install it.** Tap **Releases** on your copy's front page (on a phone: scroll down):
-   - In **Silent Hill 2 app**, tap **SH2.ipa**, then open it with SideStore (or your installer).
+   - In **Silent Hill 2 app**, tap **SH2.ipa**, then open it with SideStore, your signing service or Feather.
    - In **Game files**, download every **SH2-game-N.zip**. Then in the **Files** app, move them from
      *Downloads* to **On My iPhone > Silent Hill 2** (that folder appears once the app is installed).
 
@@ -42,10 +43,11 @@ The app isn't from the App Store, so your iPhone needs a sideloading app to inst
 | **[SideStore](https://sidestore.io)** (easiest free one) | Free, your normal Apple ID | Once, to set it up | Apps last 7 days; open SideStore and tap **Refresh** to renew them. Up to 3 apps. |
 | **[AltStore](https://altstore.io)** | Free | Yes, every week (AltServer) | Apps last 7 days |
 | **Sideloadly** | Free | Yes, each install | Apps last 7 days |
-| **[Feather](https://github.com/khcrysalis/Feather)** | Needs a paid Apple developer account or certificate | No | Apps last as long as the certificate |
+| **A signing service** such as [Signulous](https://www.signulous.com) | Paid yearly subscription | No | Upload the IPA to their site and install it from there. Third-party services, not affiliated with this project; Apple sometimes revokes their certificates, and then the app stops opening until the service re-signs it. |
+| **[Feather](https://github.com/khcrysalis/Feather)** | Needs your own **paid Apple Developer account** ($99 a year) | No | Install with your account's certificate; apps last a year. |
 
 With a free Apple ID, iOS gives apps less memory space than the game normally reserves; the app then runs with a
-smaller amount (see `guest arena` in its log). A paid developer account removes that limit.
+smaller amount (see `guest arena` in its log). A paid Apple Developer account removes that limit.
 
 ## Updating the app
 
